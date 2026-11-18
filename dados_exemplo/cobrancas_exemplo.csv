@@ -1,0 +1,7 @@
+id;cliente;município;valor cobrado (R$);vencimento;status
+1;Empresa Exemplo 01;Cidade A;1250,00;2025-03-10;pago
+2;Empresa Exemplo 02;Cidade B;980,50;2025-03-10;pendente
+3;Empresa Exemplo 03;Cidade A;2310,00;2025-03-15;pago
+4;Empresa Exemplo 04;Cidade C;450,75;2025-03-15;atrasado
+5;Empresa Exemplo 05;Cidade B;1760,20;2025-04-10;pendente
+6;Empresa Exemplo 06;Cidade C;3020,00;2025-04-10;pago
